@@ -1,1 +1,1 @@
-# Cholesky_decomposition
+# Implementation of the Cholesky decomposition algorithm
